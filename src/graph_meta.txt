@@ -1,0 +1,17 @@
+entrance:monsters_inc 3,guardians_of_the_galaxy 4,maters_junkyard_jamboree 4,the_little_mermaid 5,soarin 3
+golden_zephyr:jumpin_jellyfish 1,the_little_mermaid 2
+goofys_sky_school:jumpin_jellyfish 1,inside_out_emotional_whirlwind 2
+grizzly_river_run:soarin 3,the_little_mermaid 2
+guardians_of_the_galaxy:maters_junkyard_jamboree 5,monsters_inc 2,entrance 4,soarin 5
+incredicoaster:jessies_critter_carousel 1,the_little_mermaid 3
+inside_out_emotional_whirlwind:pixar_pal_a_round 1,jumpin_jellyfish 2,goofys_sky_school 2
+jessies_critter_carousel:midway_mania 1,incredicoaster 1
+jumpin_jellyfish:golden_zephyr 1,goofys_sky_school 1,inside_out_emotional_whirlwind 2
+luigis_rollickin_roadsters:radiator_springs_racers 1,maters_junkyard_jamboree 2
+maters_junkyard_jamboree:luigis_rollickin_roadsters 2,radiator_springs_racers 2,guardians_of_the_galaxy 5,monsters_inc 4,soarin 3,entrance 4,the_little_mermaid 2
+monsters_inc:entrance 3,maters_junkyard_jamboree 4,guardians_of_the_galaxy 2,soarin 4
+pixar_pal_a_round:midway_mania 2,inside_out_emotional_whirlwind 1
+radiator_springs_racers:luigis_rollickin_roadsters 1,maters_junkyard_jamboree 2
+soarin:entrance 3,grizzly_river_run 3,guardians_of_the_galaxy 5,maters_junkyard_jamboree 3,monsters_inc 4
+the_little_mermaid:entrance 5,golden_zephyr 2,grizzly_river_run 2,incredicoaster 3,maters_junkyard_jamboree 2
+midway_mania:jessies_critter_carousel 1,pixar_pal_a_round 2

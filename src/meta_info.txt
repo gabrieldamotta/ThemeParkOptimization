@@ -1,0 +1,16 @@
+golden_zephyr,2,2
+goofys_sky_school,3,2
+grizzly_river_run,7.5,8
+guardians_of_the_galaxy,6,3
+incredicoaster,8.5,3
+inside_out_emotional_whirlwind,1,2
+jessies_critter_carousel,1,2
+jumpin_jellyfish,0,2
+luigis_rollickin_roadsters,1,2
+maters_junkyard_jamboree,3,3
+monsters_inc,6.5,7
+pixar_pal_a_round,4.5,9
+radiator_springs_racers,9,5
+soarin,6.5,5
+the_little_mermaid,6,7
+midway_mania,7.5,6
